@@ -5,7 +5,7 @@ authors = []
 edition = "2018"
 
 [dependencies]
-rand = "0.7.3"
+rand = "0.8.6"
 log = "0.4.8"
 smart-default = "0.6.0"
 serde = "1.0.114"
